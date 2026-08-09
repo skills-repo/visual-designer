@@ -24,13 +24,13 @@
 
 ```bash
 # 安装全部视觉设计技能
-npx skills add skills-repo/visual-designer
+npx skills add skills-repo/visual-designer -g -y
 
 # 或按需安装单个技能
-npx skills add skills-repo/visual-designer@web-typography
-npx skills add skills-repo/visual-designer@illustrator
-npx skills add skills-repo/visual-designer@poster-design-generation
-npx skills add skills-repo/visual-designer@brand-designer
+npx skills add skills-repo/visual-designer@web-typography -g -y
+npx skills add skills-repo/visual-designer@illustrator -g -y
+npx skills add skills-repo/visual-designer@poster-design-generation -g -y
+npx skills add skills-repo/visual-designer@brand-designer -g -y
 ```
 
 ## 与本组织其他仓库的关系
