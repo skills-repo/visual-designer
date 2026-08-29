@@ -65,3 +65,8 @@ tags:
 - 聚焦设计原则和创意指导，不涉及具体工具操作
 - 覆盖数字海报场景，不涉及大幅面印刷
 - 不涉及动态海报和视频封面
+
+## 相关参考（Playbook）
+
+- `references/design-principles.md` — 视觉层级与留白节奏方法，决定海报主次要信息权重
+- `references/brand-typography-system.md` — 字体系统搭建（层级映射/字距铁律），海报主标题字号与字距收紧直接复用

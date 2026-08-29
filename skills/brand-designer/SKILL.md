@@ -65,3 +65,8 @@ tags:
 - 聚焦品牌视觉设计，不涉及品牌战略咨询和命名
 - Logo 设计覆盖创意指导，不涉及商标注册和法律
 - 品牌手册覆盖核心规范，不涉及完整 CI 手册（200 页级）
+
+## 相关参考（Playbook）
+
+- `references/brand-typography-system.md` — 品牌视觉资产清单与字体系统搭建方法（字体层级映射、回退方案、色彩纪律）
+- `references/design-principles.md` — 四大基础原则（CRAP）与视觉层级构建方法

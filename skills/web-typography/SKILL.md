@@ -68,3 +68,8 @@ Caption:  0.875rem                      — 辅助文字
 - 聚焦 Web 排版，不涉及印刷排版
 - 字体选择覆盖主流平台，不涉及自建字体服务
 - 不涉及字体设计和字库开发
+
+## 相关参考（Playbook）
+
+- `references/brand-typography-system.md` — 字体系统搭建方法（标题体/正文体选型、层级映射、回退方案）
+- `references/design-principles.md` — 对比度与留白纪律，对应 Web 正文可读性要求
