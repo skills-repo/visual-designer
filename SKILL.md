@@ -33,7 +33,10 @@ metadata:
 | 任务 | 读取 / 调用 | 关键词（grep 线索） |
 |------|------------|---------------------|
 | 设计原则与视觉层级 | `references/design-principles.md` | 原则, 层级, 对比, 对齐, 留白, 网格 |
+| 层级与间距的量化判据（字号比 / 行长 / 组间距） | `references/design-principles.md` | 判据, 行长, measure, 间距阶梯, 分组, 8px |
 | 品牌与字体系统 | `references/brand-typography-system.md` | 品牌, 字体, 色彩, 规范, 一致性 |
+| 字号阶梯与字体选型（模数比 / 字重 / woff2） | `references/brand-typography-system.md` | 模数, type scale, 字号阶梯, 字重, 选型, 回退 |
+| 对比度速算与 AA/AAA 判据 | `references/brand-typography-system.md` | 对比度, contrast, WCAG, AA, 可读性 |
 | 品牌设计（细粒度调用） | `skills/brand-designer/SKILL.md` | 品牌, Logo, 视觉语言, 色彩 |
 | 插画（细粒度调用） | `skills/illustrator/SKILL.md` | 插画, 风格, 角色, 配色 |
 | 海报生成（细粒度调用） | `skills/poster-design-generation/SKILL.md` | 海报, 构图, 文案, 生成 |

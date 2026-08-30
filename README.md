@@ -11,6 +11,15 @@
 | poster-design-generation | 海报设计：视觉层级、信息架构、色彩冲击力、版式布局 | 1.7K | [skills.sh](https://skills.sh/eachlabs/skills/poster-design-generation) |
 | brand-designer | 品牌设计：品牌策略、Logo 设计、色彩系统、品牌手册 | 1.1K | [skills.sh](https://skills.sh/daffy0208/ai-dev-standards/brand-designer) |
 
+## 深层 Playbook（references/）
+
+按需加载的方法论层，含决策树、可运行速算命令、量化判据与踩坑清单：
+
+| Playbook | 内容 |
+|----------|------|
+| `references/design-principles.md` | CRAP 四原则、视觉层级决策树、层级/行长/间距的**量化判据**、间距阶梯判读表 |
+| `references/brand-typography-system.md` | 品牌资产清单、**模数字号阶梯速算**、字体选型决策树、**对比度速算与 AA/AAA 判据** |
+
 ## 工作流
 
 ```
