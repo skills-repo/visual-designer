@@ -71,5 +71,5 @@ Caption:  0.875rem                      — 辅助文字
 
 ## 相关参考（Playbook）
 
-- `references/brand-typography-system.md` — 字体系统搭建方法（标题体/正文体选型、层级映射、回退方案）
-- `references/design-principles.md` — 对比度与留白纪律，对应 Web 正文可读性要求
+- [references/brand-typography-system.md](../../references/brand-typography-system.md) — 字体系统搭建方法（标题体/正文体选型、层级映射、回退方案）
+- [references/design-principles.md](../../references/design-principles.md) — 对比度与留白纪律，对应 Web 正文可读性要求

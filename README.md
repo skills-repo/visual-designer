@@ -17,8 +17,8 @@
 
 | Playbook | 内容 |
 |----------|------|
-| `references/design-principles.md` | CRAP 四原则、视觉层级决策树、层级/行长/间距的**量化判据**、间距阶梯判读表 |
-| `references/brand-typography-system.md` | 品牌资产清单、**模数字号阶梯速算**、字体选型决策树、**对比度速算与 AA/AAA 判据** |
+| [references/design-principles.md](references/design-principles.md) | CRAP 四原则、视觉层级决策树、层级/行长/间距的**量化判据**、间距阶梯判读表 |
+| [references/brand-typography-system.md](references/brand-typography-system.md) | 品牌资产清单、**模数字号阶梯速算**、字体选型决策树、**对比度速算与 AA/AAA 判据** |
 
 ## 工作流
 

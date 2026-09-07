@@ -124,11 +124,11 @@ print('相邻比:', [round(s[i+1]/s[i],2) for i in range(len(s)-1)])
 
 本 playbook（L2）给出**跨子技能通用**的设计原则与视觉层级方法；具体落地由各 L3 子技能承担：
 
-- `skills/brand-designer/` — 品牌识别与一致性检查直接套用 CRAP 与层级决策树（§1/§2）
-- `skills/illustrator/` — 构图原则（三分法/视觉引导线）复用本 playbook §1 对齐/亲近原则
-- `skills/poster-design-generation/` — 海报视觉层级与留白节奏对应本 playbook §2/§3
-- `skills/web-typography/` — 正文可读性（字号/行高/对比度）对应本 playbook §3 留白与对比度纪律
-- 兄弟 playbook：`references/brand-typography-system.md` — 字体系统搭建是层级方法在排版维度的具体化
+- [skills/brand-designer/](../skills/brand-designer/SKILL.md) — 品牌识别与一致性检查直接套用 CRAP 与层级决策树（§1/§2）
+- [skills/illustrator/](../skills/illustrator/SKILL.md) — 构图原则（三分法/视觉引导线）复用本 playbook §1 对齐/亲近原则
+- [skills/poster-design-generation/](../skills/poster-design-generation/SKILL.md) — 海报视觉层级与留白节奏对应本 playbook §2/§3
+- [skills/web-typography/](../skills/web-typography/SKILL.md) — 正文可读性（字号/行高/对比度）对应本 playbook §3 留白与对比度纪律
+- 兄弟 playbook：[references/brand-typography-system.md](brand-typography-system.md) — 字体系统搭建是层级方法在排版维度的具体化
 
 **层次边界**：L2 讲"好设计长什么样"的通用判据；具体配色方案、插画风格、字体选型等交给对应 L3 子技能。
 

@@ -68,5 +68,5 @@ tags:
 
 ## 相关参考（Playbook）
 
-- `references/design-principles.md` — 视觉层级与留白节奏方法，决定海报主次要信息权重
-- `references/brand-typography-system.md` — 字体系统搭建（层级映射/字距铁律），海报主标题字号与字距收紧直接复用
+- [references/design-principles.md](../../references/design-principles.md) — 视觉层级与留白节奏方法，决定海报主次要信息权重
+- [references/brand-typography-system.md](../../references/brand-typography-system.md) — 字体系统搭建（层级映射/字距铁律），海报主标题字号与字距收紧直接复用

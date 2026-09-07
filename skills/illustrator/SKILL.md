@@ -68,4 +68,4 @@ tags:
 
 ## 相关参考（Playbook）
 
-- `references/design-principles.md` — 四大基础原则（CRAP）与构图/对齐/留白方法，是插画构图与画面平衡的通用判据
+- [references/design-principles.md](../../references/design-principles.md) — 四大基础原则（CRAP）与构图/对齐/留白方法，是插画构图与画面平衡的通用判据

@@ -149,10 +149,10 @@ python3 accessibility-engineer/scripts/contrast_check.py "#767676" "#ffffff"
 
 本 playbook（L2）沉淀**跨子技能共享**的品牌与字体系统搭建方法；具体执行落到各 L3 子技能：
 
-- `skills/brand-designer/` — 品牌视觉资产清单与字体组合规范直接喂给品牌系统搭建（L2 §1/§2 → L3 品牌手册/字体层级映射）
-- `skills/web-typography/` — 字体层级映射（H1-H6）与回退方案对应本 playbook §2 第 4-5 步
-- `skills/poster-design-generation/` — 海报主标题字号与字距收紧复用本 playbook §2 字距铁律
-- 兄弟 playbook：`references/design-principles.md` — 四大基础原则（CRAP）是本 playbook 色彩/字体纪律的上层依据
+- [skills/brand-designer/](../skills/brand-designer/SKILL.md) — 品牌视觉资产清单与字体组合规范直接喂给品牌系统搭建（L2 §1/§2 → L3 品牌手册/字体层级映射）
+- [skills/web-typography/](../skills/web-typography/SKILL.md) — 字体层级映射（H1-H6）与回退方案对应本 playbook §2 第 4-5 步
+- [skills/poster-design-generation/](../skills/poster-design-generation/SKILL.md) — 海报主标题字号与字距收紧复用本 playbook §2 字距铁律
+- 兄弟 playbook：[references/design-principles.md](design-principles.md) — 四大基础原则（CRAP）是本 playbook 色彩/字体纪律的上层依据
 
 **层次边界**：L2 只讲"品牌字体系统怎么搭"的通用方法；具体某品牌的色值/字体选型、Web 流体字号实现等交给对应 L3 子技能。
 

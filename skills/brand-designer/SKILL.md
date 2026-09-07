@@ -68,5 +68,5 @@ tags:
 
 ## 相关参考（Playbook）
 
-- `references/brand-typography-system.md` — 品牌视觉资产清单与字体系统搭建方法（字体层级映射、回退方案、色彩纪律）
-- `references/design-principles.md` — 四大基础原则（CRAP）与视觉层级构建方法
+- [references/brand-typography-system.md](../../references/brand-typography-system.md) — 品牌视觉资产清单与字体系统搭建方法（字体层级映射、回退方案、色彩纪律）
+- [references/design-principles.md](../../references/design-principles.md) — 四大基础原则（CRAP）与视觉层级构建方法

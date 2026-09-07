@@ -6,10 +6,10 @@
 
 | 环节 | 技能 | 文件 | 用途 |
 |------|------|------|------|
-| 文字 | web-typography | `skills/web-typography/SKILL.md` | Web 排版：字体选择、层级系统、可读性优化 |
-| 插画 | illustrator | `skills/illustrator/SKILL.md` | 插画创作：风格探索、构图、色彩、插画系统 |
-| 版式 | poster-design-generation | `skills/poster-design-generation/SKILL.md` | 海报设计：视觉层级、信息架构、版式布局 |
-| 品牌 | brand-designer | `skills/brand-designer/SKILL.md` | 品牌设计：Logo、色彩系统、品牌手册 |
+| 文字 | web-typography | [skills/web-typography/SKILL.md](skills/web-typography/SKILL.md) | Web 排版：字体选择、层级系统、可读性优化 |
+| 插画 | illustrator | [skills/illustrator/SKILL.md](skills/illustrator/SKILL.md) | 插画创作：风格探索、构图、色彩、插画系统 |
+| 版式 | poster-design-generation | [skills/poster-design-generation/SKILL.md](skills/poster-design-generation/SKILL.md) | 海报设计：视觉层级、信息架构、版式布局 |
+| 品牌 | brand-designer | [skills/brand-designer/SKILL.md](skills/brand-designer/SKILL.md) | 品牌设计：Logo、色彩系统、品牌手册 |
 
 ## 使用场景
 
