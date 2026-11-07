@@ -31,15 +31,17 @@
 
 ## 安装
 
+本仓库支持整库安装与按子技能单独安装（路径长期稳定、不会改名）：
+
 ```bash
-# 安装全部视觉设计技能
+# 整库安装
 npx skills add skills-repo/visual-designer -g -y
 
-# 或按需安装单个技能
-npx skills add skills-repo/visual-designer@web-typography -g -y
-npx skills add skills-repo/visual-designer@illustrator -g -y
-npx skills add skills-repo/visual-designer@poster-design-generation -g -y
-npx skills add skills-repo/visual-designer@brand-designer -g -y
+# 按子技能安装（D115：根技能遮蔽下 @ 语法失效，改用子路径 URL）
+npx skills add https://github.com/skills-repo/visual-designer/tree/main/skills/web-typography -g -y
+npx skills add https://github.com/skills-repo/visual-designer/tree/main/skills/illustrator -g -y
+npx skills add https://github.com/skills-repo/visual-designer/tree/main/skills/poster-design-generation -g -y
+npx skills add https://github.com/skills-repo/visual-designer/tree/main/skills/brand-designer -g -y
 ```
 
 ## 与本组织其他仓库的关系
